@@ -1,4 +1,4 @@
-package cn.chenhaonee.opentsdb
+package cn.skydata.opentsdb
 
 import cn.chenhaonee.OpenTSDB4J.impl.OpenTSDBClientImpl
 import cn.chenhaonee.OpenTSDB4J.vo.Query

@@ -1,4 +1,4 @@
-package cn.chenhaonee.opentsdb
+package cn.skydata.opentsdb
 
 import org.apache.spark.sql.SQLContext
 import org.apache.spark.sql.sources._
